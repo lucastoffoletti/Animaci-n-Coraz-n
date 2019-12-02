@@ -1,3 +1,3 @@
-# Animación-Corazón - LOV3
+# Animación-Corazón - LOVE
 Create a animation with javascript
 #### ENJOY #####
